@@ -16,7 +16,8 @@
         <title>JSP Page</title>
     </head>
     <body>
-        
+        Hello world
+    /*    
     <%
         
         // crear e inicializar variables
@@ -288,6 +289,6 @@
                 break;                         
         }
     %>
-        
+        */
     </body>
 </html>
