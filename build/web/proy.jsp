@@ -17,6 +17,9 @@
     </head>
     <body>
         
+        <%=  %>
+        hoola wa
+        
     <%
         
         // crear e inicializar variables
