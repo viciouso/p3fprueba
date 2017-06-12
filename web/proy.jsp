@@ -17,6 +17,8 @@
     </head>
     <body>
         Hello world
+        <%=  %>
+        hoola wa
     /*    
     <%
         
